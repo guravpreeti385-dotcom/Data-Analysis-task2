@@ -1,0 +1,21 @@
+📊 Key Insights
+
+1. Electronics lead in average sales
+
+Electronics show the highest average discounted price (₹775), indicating stronger revenue potential compared to other categories.
+
+2. Home & Kitchen lowest sales but highest margin
+
+Despite having the lowest average sales (₹735), Home & Kitchen products achieve the highest profit margin (0.254), suggesting efficiency in profitability.
+
+3. Beauty dominates customer satisfaction
+
+Beauty products have the highest average rating (4.7) and strong average sales (₹765), showing a balance of popularity and customer trust.
+
+4. Electronics struggle with ratings
+
+Electronics, while leading in sales, have the lowest average rating (3.5), highlighting a potential issue with customer satisfaction or product quality.
+
+5. Ratings and sales don’t always align
+
+Categories like Beauty (high ratings + good sales) contrast with Electronics (high sales + low ratings), proving that customer satisfaction doesn’t always translate directly into revenue.
